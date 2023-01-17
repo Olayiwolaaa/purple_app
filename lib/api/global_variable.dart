@@ -1,0 +1,2 @@
+var endPoint = "https://joc3966si0.execute-api.eu-west-2.amazonaws.com/production/purple-backend/api/v1";
+// var endPoint = "https://kbn0xqylj0.execute-api.eu-west-2.amazonaws.com/production/purple-appbackend";
